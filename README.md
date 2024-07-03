@@ -3,7 +3,7 @@
 ## <p align="center"> :information_source: About Me :information_source: </p>
 
 👀 My name is Julian Vrtiška - in the Internet, widely known as JulV. <br>
-📍 I live in Szczecin, Poland. <br>
+🇵🇱 I live in Szczecin, Poland. <br>
 💻 I am an IT Student at Zachodniopomorski Uniwersytet Technologiczny and an aspiring programmer. <br>
 ⌚ In my free time I solve programming problems and make movie projects. <br>
 
