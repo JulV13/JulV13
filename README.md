@@ -6,6 +6,7 @@
 📍 I live in Szczecin, Poland. <br>
 💻 I am an IT Student at Zachodniopomorski Uniwersytet Technologiczny and an aspiring programmer. <br>
 ⌚ In my free time I solve programming problems and make movie projects. <br>
+🗃️ I own and manage "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Languages 🗺️ </p>
 <img src="https://skillicons.dev/icons?i=cpp,py,java" /><br>
