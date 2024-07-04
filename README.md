@@ -18,8 +18,9 @@
 
 ## <p align="center"> 📂 Projects 📂 </p>
 
-💭 Right now I am focusing on honing my programming skills and learning new languages. <br>
-✔️ You can find my solutions here: [CodeWars](https://www.codewars.com/users/JulianVrtiska/completed_solutions)
+💭 Right now I am focusing on honing my programming skills and learning new languages. <br><br>
+✔️ You can find my solutions here: [CodeWars](https://www.codewars.com/users/JulianVrtiska/completed_solutions)<br><br>
+<img src="https://www.codewars.com/users/JulianVrtiska/badges/large"></img>
 
 ## <p align="center"> 📌 Contact 📌 </p>
 
