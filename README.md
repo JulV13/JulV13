@@ -19,7 +19,7 @@
 
 💭 Right now I am focusing on honing my programming skills and learning new languages. <br><br>
 
-✔️ You can find my CodeWars solutions files here: [Repository](https://github.com/JulV13/CodeWars)
+✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
 ✔️ You can find my CodeWars profile here: [CodeWars](https://www.codewars.com/users/JulianVrtiska/completed_solutions)<br><br>
 <img src="https://www.codewars.com/users/JulianVrtiska/badges/large"></img>
 
