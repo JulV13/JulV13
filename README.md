@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=cpp" /><br>
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,pycharm,idea" /><br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion" /><br>
 <img src="https://skillicons.dev/icons?i=github,figma" /><br>
 
 ## <p align="center"> 📂 Projects 📂 </p>
