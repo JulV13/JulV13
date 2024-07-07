@@ -9,8 +9,7 @@
 🗃️ I own and manage "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Languages 🗺️ </p>
-<img src="https://skillicons.dev/icons?i=cpp,py,java" /><br>
-<img src="https://skillicons.dev/icons?i=html,css" /><br>
+<img src="https://skillicons.dev/icons?i=cpp" /><br>
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,pycharm,idea" /><br>
