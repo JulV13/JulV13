@@ -9,10 +9,10 @@
 🗃️ I own and manage "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Technologies 🗺️ </p>
-<img src="https://skillicons.dev/icons?i=cpp" /><br>
-<img src="https://skillicons.dev/icons?i=html" /><br>
-<img src="https://skillicons.dev/icons?i=css" /><br>
-<img src="https://skillicons.dev/icons?i=js" /><br>
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=react" /><br>
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
