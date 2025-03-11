@@ -9,6 +9,7 @@
 
 ## <p align="center"> 🗺️ Technologies 🗺️ </p>
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react"/><br>
+<img src="https://skillicons.dev/icons?i=nodejs"/><br>
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /><br>
