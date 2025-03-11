@@ -8,16 +8,20 @@
 ⌚ In my free time I solve programming problems and make movie projects. <br>
 🗃️ I own and manage "DayZ Gone" game server with a growing community. <br>
 
-## <p align="center"> 🗺️ Languages 🗺️ </p>
+## <p align="center"> 🗺️ Technologies 🗺️ </p>
 <img src="https://skillicons.dev/icons?i=cpp" /><br>
+<img src="https://skillicons.dev/icons?i=html" /><br>
+<img src="https://skillicons.dev/icons?i=css" /><br>
+<img src="https://skillicons.dev/icons?i=js" /><br>
+<img src="https://skillicons.dev/icons?i=react" /><br>
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion" /><br>
-<img src="https://skillicons.dev/icons?i=github,figma" /><br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=github" /><br>
 
 ## <p align="center"> 📂 Projects 📂 </p>
 
-💭 Right now I am focusing on honing my programming skills and learning new languages. <br><br>
+💭 Right now I am focusing on learning React.js <br><br>
 
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
 ✔️ You can find my CodeWars profile here: [CodeWars](https://www.codewars.com/users/JulianVrtiska)<br><br>
