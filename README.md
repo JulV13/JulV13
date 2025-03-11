@@ -2,10 +2,9 @@
 
 ## <p align="center"> :information_source: About Me :information_source: </p>
 
-👀 My name is Julian Vrtiška. <br>
 📍 I live in Szczecin, Poland. <br>
-💻 I am an IT Student at Zachodniopomorski Uniwersytet Technologiczny and an aspiring programmer. <br>
-⌚ In my free time I solve programming problems and make movie projects. <br>
+💻 I am an IT Student at Zachodniopomorski Uniwersytet Technologiczny. <br>
+⌚ In my free time I code and make video projects. <br>
 🗃️ I own and manage "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Technologies 🗺️ </p>
