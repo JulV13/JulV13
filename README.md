@@ -16,7 +16,7 @@
 
 ## <p align="center"> 📂 Projects 📂 </p>
 
-Projects I currently work on: [Projects Repository]https://github.com/JulV13/Projects
+:pencil2: Projects I currently work on: [Projects Repository](https://github.com/JulV13/Projects)
 
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
 ✔️ You can find my CodeWars profile here: [CodeWars](https://www.codewars.com/users/JulianVrtiska)<br><br>
