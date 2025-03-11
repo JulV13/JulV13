@@ -14,7 +14,7 @@
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /><br>
-<img src="https://skillicons.dev/icons?i=github" /><br>
+<img src="https://skillicons.dev/icons?i=github,git" /><br>
 
 ## <p align="center"> 📂 Projects 📂 </p>
 
