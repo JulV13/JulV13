@@ -21,7 +21,6 @@
 
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
 ✔️ You can find my CodeWars profile here: [CodeWars](https://www.codewars.com/users/JulianVrtiska)<br><br>
-<img src="https://www.codewars.com/users/JulianVrtiska/badges/large"></img>
 
 ## <p align="center"> 📌 Contact 📌 </p>
 
