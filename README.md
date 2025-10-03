@@ -17,10 +17,11 @@
 
 ## <p align="center"> 📂 Projects 📂 </p>
 
-:pencil2: Projects I currently work on: [Projects Repository](https://github.com/JulV13/Projects)
+:pencil: University projects: [University projects repository](https://github.com/JulV13/ZUT-Repo)
+:pencil2: Personal projects: [Personal projects repository](https://github.com/JulV13/Projects)
 
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
-✔️ You can find my CodeWars profile here: [CodeWars](https://www.codewars.com/users/JulianVrtiska)<br><br>
+✔️ You can find my CodeWars profile here: [CodeWars profile](https://www.codewars.com/users/JulianVrtiska)<br><br>
 
 ## <p align="center"> 📌 Contact 📌 </p>
 
