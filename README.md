@@ -4,7 +4,7 @@
 
 📍 I live in Szczecin, Poland. <br>
 💻 I am an IT Student at West Pomeranian University of Technology. <br>
-⌚ In my free time I love making video projects. <br>
+⌚ In my free time I love making video projects in DaVinci Resolve. <br>
 🗃️ I am an owner of "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Technologies 🗺️ </p>
@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
 
 ## <p align="center"> 🔨 Tools I Use 🔨 </p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,pycharm" /><br>
 <img src="https://skillicons.dev/icons?i=github,git" /><br>
 
 ## <p align="center"> 📂 Projects 📂 </p>
