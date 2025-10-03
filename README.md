@@ -3,9 +3,9 @@
 ## <p align="center"> :information_source: About Me :information_source: </p>
 
 📍 I live in Szczecin, Poland. <br>
-💻 I am an IT Student at Zachodniopomorski Uniwersytet Technologiczny. <br>
-⌚ In my free time I code and make video projects. <br>
-🗃️ I own and manage "DayZ Gone" game server with a growing community. <br>
+💻 I am an IT Student at West Pomeranian University of Technology. <br>
+⌚ In my free time I love making video projects. <br>
+🗃️ I am an owner of "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Technologies 🗺️ </p>
 <img src="https://skillicons.dev/icons?i=cpp,python"/><br>
