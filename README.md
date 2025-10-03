@@ -17,7 +17,7 @@
 
 ## <p align="center"> 📂 Projects 📂 </p>
 
-:pencil: University projects: [University projects repository](https://github.com/JulV13/ZUT-Repo)
+:pencil: University projects: [University projects repository](https://github.com/JulV13/ZUT-Repo)<br>
 :pencil2: Personal projects: [Personal projects repository](https://github.com/JulV13/Projects)
 
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
