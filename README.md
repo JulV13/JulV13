@@ -26,5 +26,5 @@
 ## <p align="center"> 📌 Contact 📌 </p>
 
 <img src="https://skillicons.dev/icons?i=gmail" /><br>julian.vrtiska@gmail.com <br><br>
-<img src="https://skillicons.dev/icons?i=linkedin" /><br>[LinkedIn](https://www.linkedin.com/in/julian-vrti%C5%A1ka-9a6247295/) <br><br>
+<img src="https://skillicons.dev/icons?i=linkedin" /><br>[LinkedIn](https://www.linkedin.com/in/julian-vrtiska) <br><br>
 <img src="https://skillicons.dev/icons?i=discord" /><br>julv13<br>
