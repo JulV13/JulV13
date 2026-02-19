@@ -15,13 +15,14 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,pycharm" /><br>
 <img src="https://skillicons.dev/icons?i=github,git" /><br>
 
-## <p align="center"> 📂 Projects 📂 </p>
-
-:pencil: University projects: [University projects repository](https://github.com/JulV13/ZUT-Repo)<br>
+## <p align="center"> 🏎️ F1info 🏎️ </p>
 
 F1info is a personal project focused on delivering Formula 1 information about drivers, teams, seasons and races using OpenF1 API.<br>
-🏎️ F1info poject: [F1info](https://github.com/JulV13/F1info)
+🏎️ F1info repo: [F1info](https://github.com/JulV13/F1info)<br>
 
+## <p align="center"> 📂 Other Projects and solutions 📂 </p>
+
+:pencil: University projects: [University projects repository](https://github.com/JulV13/ZUT-Repo)<br>
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
 ✔️ You can find my CodeWars profile here: [CodeWars profile](https://www.codewars.com/users/JulianVrtiska)<br><br>
 
