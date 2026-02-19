@@ -19,7 +19,7 @@
 
 :pencil: University projects: [University projects repository](https://github.com/JulV13/ZUT-Repo)<br>
 
-F1info is a personal project focused on delivering Formula 1 information about drivers, teams, seasons and races using OpenF1 API.
+F1info is a personal project focused on delivering Formula 1 information about drivers, teams, seasons and races using OpenF1 API.<br>
 🏎️ F1info poject: [F1info](https://github.com/JulV13/F1info)
 
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
