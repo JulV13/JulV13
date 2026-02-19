@@ -2,10 +2,10 @@
 
 ## <p align="center"> :information_source: About Me :information_source: </p>
 
-📍 I live in Szczecin, Poland. <br>
-💻 I am an IT Student at West Pomeranian University of Technology. <br>
-⌚ In my free time I love making video projects in DaVinci Resolve. <br>
-🗃️ I am an owner of "DayZ Gone" game server with a growing community. <br>
+📍 Located in Szczecin, Poland. <br>
+💻 IT Student at West Pomeranian University of Technology. <br>
+⌚ In free time making video projects and edits in DaVinci Resolve. <br>
+🗃️ Owner of "DayZ Gone" game server with a growing community. <br>
 
 ## <p align="center"> 🗺️ Technologies 🗺️ </p>
 <img src="https://skillicons.dev/icons?i=cpp,python"/><br>
@@ -17,8 +17,8 @@
 
 ## <p align="center"> 🏎️ F1info 🏎️ </p>
 
-F1info is a personal project focused on delivering Formula 1 information about drivers, teams, seasons and races using OpenF1 API.<br>
-🏎️ F1info repo: [F1info](https://github.com/JulV13/F1info)<br>
+F1info is a personal project focused on delivering Formula 1 information about drivers, teams, seasons and races using OpenF1 API.<br><br>
+F1info repo: [F1info](https://github.com/JulV13/F1info)<br>
 
 ## <p align="center"> 📂 Other Projects and solutions 📂 </p>
 
@@ -26,8 +26,9 @@ F1info is a personal project focused on delivering Formula 1 information about d
 ✔️ You can find my CodeWars solutions here: [Repository](https://github.com/JulV13/CodeWars)<br>
 ✔️ You can find my CodeWars profile here: [CodeWars profile](https://www.codewars.com/users/JulianVrtiska)<br><br>
 
-## <p align="center"> 📌 Contact 📌 </p>
+## <p align="center"> 📌 Contact me here 📌 </p>
 
 <img src="https://skillicons.dev/icons?i=gmail" /><br>julian.vrtiska@gmail.com <br><br>
-<img src="https://skillicons.dev/icons?i=linkedin" /><br>[LinkedIn](https://www.linkedin.com/in/julian-vrtiska) <br><br>
+<img src="https://skillicons.dev/icons?i=linkedin" /><br>[Julian Vrtiška](https://www.linkedin.com/in/julian-vrtiska) <br><br>
 <img src="https://skillicons.dev/icons?i=discord" /><br>julv13<br>
+
