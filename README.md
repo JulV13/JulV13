@@ -3,7 +3,7 @@
 ## <p align="center"> :information_source: About Me :information_source: </p>
 
 📍 IT Student (West Pomeranian University of Technology) from Szczecin, Poland. <br>
-💻 Interested in web development
+💻 Interested in web development. <br>
 🎬 Video editor experienced in DaVinci Resolve. <br>
 🗃️ Owner of "DayZ Gone" game server with a growing community. <br>
 
